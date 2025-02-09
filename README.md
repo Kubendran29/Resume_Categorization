@@ -31,7 +31,7 @@ scikit-learn, pandas, NumPy, re, PyPDF2
 │── 📄 tfidf.pkl             # TF-IDF Vectorizer  
 │── 📄 requirements.txt      # Dependencies  
 │── 📄 category_mapping.json # Job Categories  
-│── 📁 data/                 # Sample Resumes  
+│── 📁 Test_data/                 # Sample Resumes  
 │── 📁 output/               # Categorized Resumes  
 
 🎯 Future Improvements
