@@ -9,17 +9,25 @@ This project leverages Natural Language Processing (NLP) and Machine Learning (L
 🔥 Features
 
 ✅ AI-Powered Resume Classification using Logistic Regression
+
 ✅ Streamlit Web App for easy resume uploads
+
 ✅ Instant Predictions for job categories
+
 ✅ CSV Export for structured data analysis
+
 ✅ Supports Multiple Resume Uploads
 
 🛠️ Tech Stack
 
 Python 🐍
+
 Machine Learning (Logistic Regression) 🤖
+
 Natural Language Processing (NLP) 📝
+
 Streamlit 🌐 (for web interface)
+
 scikit-learn, pandas, NumPy, re, PyPDF2
 
 
@@ -35,6 +43,9 @@ scikit-learn, pandas, NumPy, re, PyPDF2
 │── 📁 output/               # Categorized Resumes  
 
 🎯 Future Improvements
+
 🔹 Improve accuracy with Deep Learning models
+
 🔹 Add support for more file formats (e.g., images, scanned PDFs)
+
 🔹 Enhance UI/UX for a better user experience
